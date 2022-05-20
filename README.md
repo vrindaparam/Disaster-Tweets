@@ -1,3 +1,6 @@
 # Disaster-Tweets
-Predict which Tweets are about real disasters and which are not
-NLP model with TensorFlow using LSTM
+Predict if a Tweet is about real disasters 
+and the ones which are not.
+
+Approach:
+Natutal Langauge Processing using TensorFlow using LSTM
